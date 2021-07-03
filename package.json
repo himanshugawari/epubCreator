@@ -1,0 +1,19 @@
+{
+  "name": "epub-maker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Himanshu Gawari",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "puppeteer",
+    "epub-gen"
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "epub-gen": "^0.1.0",
+    "puppeteer": "^8.0.0"
+  }
+}
